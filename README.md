@@ -8,12 +8,14 @@ L'utente ha la possibilità di:
 * Visualizzare/ nascondere l'avatar
 * Cambiare il colore dei vestiti
 * Togliere l'outfit "indossato"
+<br />
 
 ## Tecnologie utilizzate
 Le tecnologie utilizzate per la realizzazione di tale progetto sono:
 * [Unity](https://unity.com/) : 2019.4.40
 * [MARS](https://docs.unity3d.com/Packages/com.unity.mars@1.4/manual/index.html) : 1.4.1
 * [C#](https://learn.microsoft.com/it-it/dotnet/csharp/)
+<br />
 
 ## Architettura
 <div align="center"><img src="img/architettura.png"/></div>
