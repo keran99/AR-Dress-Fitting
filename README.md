@@ -16,4 +16,4 @@ Le tecnologie utilizzate per la realizzazione di tale progetto sono:
 * [C#](https://learn.microsoft.com/it-it/dotnet/csharp/)
 
 ## Architettura
-<div align="center"><img src="img/architettura.png" width="175" height="150" /></div>
+<div align="center"><img src="img/architettura.png"/></div>
