@@ -1,6 +1,6 @@
 # AR-Dress-Fitting
 Dress Fitting è un'applicazione, per il sistema operativo IOS, che permette all'utente di indossare virtualmente dei vestiti tramite l'utilizzo della realtà aumentata.
-All'interno dell'applicazione, viene generato un avatar il quale indosserà i vestiti. Inoltre, l'avatar seguirà tutti i movimenti dell'utente.
+All'interno dell'applicazione, viene generato un avatar il quale indosserà i vestiti. Inoltre, l'avatar seguirà tutti i movimenti dell'utente. <br />
 L'utente ha la possibilità di:
 * Modificare le dimensioni dell'avatar
 * Selezionare un outfit
